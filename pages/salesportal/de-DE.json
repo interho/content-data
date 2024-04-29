@@ -1,0 +1,73 @@
+{
+	"path": "pages/salesportal/de-DE.json",
+	"locale": "de-DE",
+	"version": "published",
+	"status": "active",
+	"slug": "",
+	"full_slug": "/salesportal",
+	"owner": "",
+	"group": "",
+	"created": "2024-02-22T00:00:00Z",
+	"modified": "2024-02-22T00:00:00Z",
+	"published": "2024-02-22T00:00:00Z",
+	"permissions": "",
+	"id": "salesportal",
+	"collection": "pages",
+	"repo": "content",
+	"name": "Salesportalpage",
+	"notes": "",
+	"tags": [
+		"salesportal"
+	],
+	"mime": "application/json",
+	"type": "Page",
+	"content": {
+		"title": "",
+		"description": "",
+		"robots": "",
+		"canonical": "",
+		"meta": {},
+		"virtpath": "",
+		"body": [
+			{
+				"id": 1,
+				"component": "Hero",
+				"content": {
+					"headline": "",
+					"image": {
+						"asset": "https://images.interhome.group/ezcms/hhd/salesportal/ih-salesportal-start-page/1794892-4-eng-XX/IH-SalesPortal-Start-Page.jpg",
+						"alt": "Partner Portal Home",
+						"width": 0,
+						"height": 0
+					}
+				}
+			},
+			{
+				"id": 2,
+				"component": "Columns",
+				"content": {
+					"left": [
+						{
+							"id": 1,
+							"component": "Richtext",
+							"content": {
+								"text": "<a name=\"eztoc_1_1\" id=\"eztoc_1_1\"></a><h2>Interhome Group Deutschland</h2><p>HHD GmbH<br>Heinrich-von-Stephan-Str. 25<br>D-79100 Freiburg</p><p>Partnercare bei Fragen zur Zusammenarbeit:<br>Telefon: +49 (0)761 2100 750<br>E-mail: <a href=\"mailto:partnercare.de@interhome.group\">partnercare.de@interhome.group</a> </p><p>Buchungs-Service bei Fragen zu Buchungen:<br>Telefon: +49 (0)761 2100 100<br>E-mail: <a href=\"mailto:reisebuero@interhome.group\">reisebuero@interhome.group</a> </p><p>_____________________________________________________________________________________</p><p>Entdecken Sie unser Portfolio aus ca.40.000 qualitätsgeprüften Ferienhäusern und Wohnungen in 28 Ländern.</p><p>Starten Sie jetzt Ihre <strong><a href=\"https://partners.interhome.group/portal/partners/booking\">Unterkunfts-Suche</a>.</strong></p><a name=\"eztoc_1_2_1_1_1_1\" id=\"eztoc_1_2_1_1_1_1\"></a><h6>Ferienhaus Details</h6><p>IT | Toskana Chianti | San Gimignano<br>Ferienhaus \"Vineyard View\" für bis zu 8 Personen<br>Referenz: <a href=\"/portal/partners/booking?target=%2FIT5257.210.1\" target=\"_blank\">IT5257.210.1 </a></p><img src=\"https://images.interhome.group/ezcms/media/hhd/salesportal/hero-images/it5257.210.1/2042523-1-ger-DE/IT5257.210.1.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"38364\" data-type=\"image\" data-content=\"\"><a name=\"eztoc_2_1\" id=\"eztoc_2_1\"></a><h2>Individueller PDF-Katalog</h2><p>Erstellen Sie einen individuellen PDF-Katalog für Ihre Kunden, so einfach geht's:</p><p><a href=\"https://video214.com/play/puMrUfNJQsFId3fZrztfDw/s/dark\" target=\"_blank\">PDF-Anleitung</a></p><p>_____________________________________________________________________________________</p><a name=\"eztoc_3_1\" id=\"eztoc_3_1\"></a><h2>Wichtiger Hinweis für GDS-Buchungen</h2><p>Bei Buchungen «auf Rechnung» bitte im DIK-Feld weder Kreditkarten- noch Lastschriftdaten eingeben und das DIK-Feld <strong>unbedingt</strong> mit «Enter» verlassen!</p><p>Wird die Maske einfach nur mit „x“ oben rechts geschlossen, wird die Buchung nicht korrekt verarbeitet. In der Buchungsmaske sieht man unglücklicherweise zwar den Status OK, aber die Buchung ist nicht umgesetzt. Das System storniert solche Vorgänge automatisch nach kurzer Zeit. Im Zweifelsfall wenden Sie sich gerne an uns.  </p><p>_____________________________________________________________________________________</p><a name=\"eztoc_4_1\" id=\"eztoc_4_1\"></a><h2>20% Expedientenrabatt bei Interhome</h2><p>Was man kennt, kann man auch besser verkaufen – darum profitieren Expedienten bei Interhome von 20% Rabatt auf das gesamte Ferienhaus-Angebot! Schicken Sie dazu einfach von Ihrem Reisebüro-Account Ihre als Privatkunde getätigte Buchung unter Angabe Ihrer Partner ID an <a href=\"mailto:reisebuero@interhome.group\">reisebuero@interhome.group</a>. Überzeugen Sie sich selbst von den Vorteilen eines privaten Ferienhauses - wir freuen uns auf Sie!</p>\n",
+								"markdown": "### TODO\nDer HTML-Text muss in Markdown konvertiert werden."
+							}
+						}
+					],
+					"right": [
+						{
+							"id": 1,
+							"component": "Richtext",
+							"content": {
+								"text": "<a name=\"eztoc_1_1\" id=\"eztoc_1_1\"></a><h2>Nachhaltigkeit liegt uns am Herzen</h2><p>Die Interhome Group setzt sich für einen nachhaltigen Ferienwohnungstourismus ein und unterstützt mit € 1 pro Buchung Nachhaltigkeitsprojekte. Auch Ihre Kunden können mit einer freiwilligen CO2-Kompensation einen Beitrag zum Klimaschutz beitragen. Gemeinsam engagieren wir uns für die Zukunft! <a href=\"https://www.interhome.de/ueber-interhome/nachhaltigkeit/\" target=\"_blank\">Mehr Informationen.</a></p><p>________________________________________________________________________________________</p><a name=\"eztoc_2_1\" id=\"eztoc_2_1\"></a><h2>Coronavirus Update</h2><p>Wir verfolgen laufend die Reisebeschränkungen und halten uns an die offiziellen Anweisungen, aufgrund deren Buchungen möglicherweise storniert werden müssen. Eine aktuelle Übersicht aller Einschränkungen finden Sie unter <a href=\"https://www.interhome.group/de-de/coronavirus\" target=\"_blank\">www.interhome.group</a>. Bei Unklarheiten oder Änderungswünschen zu bestehenden Buchungen, kontaktieren Sie uns bitte unter +49 (0)761 2100 100.</p><p>Unsere lokalen Service Büros haben umfangreiche Maßnahmen umgesetzt, um das Wohlergehen von Kunden, Eigentümern und Mitarbeitenden zu gewährleisten. Zu den Maßnahmen gehören Schutzmasken für Kunden und Mitarbeitende, Bodenmarkierungen für die Einhaltung der offiziellen Abstandsregelungen und Einschränkung der Anzahl Kunden, die sich zeitgleich in unseren Büros aufhalten dürfen. Kunden werden gebeten, Handdesinfektionsmittel zu verwenden, das in jedem Büro zur Verfügung steht.</p><a name=\"eztoc_3_1\" id=\"eztoc_3_1\"></a><h2>________________________________________________________________________________________</h2><a name=\"eztoc_4_1\" id=\"eztoc_4_1\"></a><h2>Erstellen Sie Ihren Partnerlink selbst<strong> </strong>\n</h2><p>Anbei eine kurze Anleitung: <a href=\"https://video214.com/play/eDZDM60FQgtYne9J0A81Vw/s/dark\" target=\"_blank\">Partnerlinkgenerator</a></p><p><a href=\"https://partners.interhome.group/demos/\" target=\"_blank\">Link zum Demo-Tool</a></p><p>Informationen zur Verlinkung und die Anmeldung für unseren Tech Update Newsletter finden Sie <a href=\"https://partners.interhome.group\" target=\"_blank\">hier</a></p><p>Bei Rückfragen wenden Sie sich gerne an unsere Agenturbetreuung.</p>\n",
+								"markdown": "### TODO\nDer HTML-Text muss in Markdown konvertiert werden."
+							}
+						}
+					]
+				}
+			}
+		]
+	}
+}
