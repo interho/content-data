@@ -1,0 +1,74 @@
+{
+    "path": "pages/salesportal/de-AT.json",
+    "locale": "de-AT",
+    "version": "published",
+    "status": "active",
+    "slug": "",
+    "full_slug": "/salesportal",
+    "owner": "pn13091",
+    "group": "",
+    "created": "2024-04-29T15:17:21.83475+02:00",
+    "modified": "2024-04-29T15:17:21.834763+02:00",
+    "published": "0001-01-01T00:00:00Z",
+    "permissions": "-rwxr--r--",
+    "id": "salesportal",
+    "collection": "pages",
+    "space": "website",
+    "repo": "content",
+    "name": "Salesportalpage",
+    "notes": "",
+    "tags": [
+        "salesportal"
+    ],
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "title": "",
+        "description": "",
+        "robots": "",
+        "canonical": "",
+        "meta": {},
+        "virtpath": "",
+        "body": [
+            {
+                "id": 1,
+                "component": "Hero",
+                "content": {
+                    "headline": "",
+                    "image": {
+                        "asset": "https://images.interhome.group/ezcms/hhd/salesportal/ih-salesportal-start-page/1794892-4-eng-XX/IH-SalesPortal-Start-Page.jpg",
+                        "alt": "Partner Portal Home - test 14",
+                        "width": 0,
+                        "height": 0
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "component": "Columns",
+                "content": {
+                    "left": [
+                        {
+                            "id": 1,
+                            "component": "Richtext",
+                            "content": {
+                                "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eInterhome Group Deutschland\u003c/h2\u003e\u003cp\u003eHHD GmbH\u003cbr\u003eHeinrich-von-Stephan-Str. 25\u003cbr\u003eD-79100 Freiburg\u003c/p\u003e\u003cp\u003ePartnercare bei Fragen zur Zusammenarbeit:\u003cbr\u003eTelefon: +49 (0)761 2100 750\u003cbr\u003eE-mail: \u003ca href=\"mailto:partnercare.de@interhome.group\"\u003epartnercare.de@interhome.group\u003c/a\u003e \u003c/p\u003e\u003cp\u003eBuchungs-Service bei Fragen zu Buchungen:\u003cbr\u003eTelefon: +49 (0)761 2100 100\u003cbr\u003eE-mail: \u003ca href=\"mailto:reisebuero@interhome.group\"\u003ereisebuero@interhome.group\u003c/a\u003e \u003c/p\u003e\u003cp\u003e_____________________________________________________________________________________\u003c/p\u003e\u003cp\u003eEntdecken Sie unser Portfolio aus ca.40.000 qualitätsgeprüften Ferienhäusern und Wohnungen in 28 Ländern.\u003c/p\u003e\u003cp\u003eStarten Sie jetzt Ihre \u003cstrong\u003e\u003ca href=\"https://partners.interhome.group/portal/partners/booking\"\u003eUnterkunfts-Suche\u003c/a\u003e.\u003c/strong\u003e\u003c/p\u003e\u003ca name=\"eztoc_1_2_1_1_1_1\" id=\"eztoc_1_2_1_1_1_1\"\u003e\u003c/a\u003e\u003ch6\u003eFerienhaus Details\u003c/h6\u003e\u003cp\u003eIT | Toskana Chianti | San Gimignano\u003cbr\u003eFerienhaus \"Vineyard View\" für bis zu 8 Personen\u003cbr\u003eReferenz: \u003ca href=\"/portal/partners/booking?target=%2FIT5257.210.1\" target=\"_blank\"\u003eIT5257.210.1 \u003c/a\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/hhd/salesportal/hero-images/it5257.210.1/2042523-1-ger-DE/IT5257.210.1.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"38364\" data-type=\"image\" data-content=\"\"\u003e\u003ca name=\"eztoc_2_1\" id=\"eztoc_2_1\"\u003e\u003c/a\u003e\u003ch2\u003eIndividueller PDF-Katalog\u003c/h2\u003e\u003cp\u003eErstellen Sie einen individuellen PDF-Katalog für Ihre Kunden, so einfach geht's:\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://video214.com/play/puMrUfNJQsFId3fZrztfDw/s/dark\" target=\"_blank\"\u003ePDF-Anleitung\u003c/a\u003e\u003c/p\u003e\u003cp\u003e_____________________________________________________________________________________\u003c/p\u003e\u003ca name=\"eztoc_3_1\" id=\"eztoc_3_1\"\u003e\u003c/a\u003e\u003ch2\u003eWichtiger Hinweis für GDS-Buchungen\u003c/h2\u003e\u003cp\u003eBei Buchungen «auf Rechnung» bitte im DIK-Feld weder Kreditkarten- noch Lastschriftdaten eingeben und das DIK-Feld \u003cstrong\u003eunbedingt\u003c/strong\u003e mit «Enter» verlassen!\u003c/p\u003e\u003cp\u003eWird die Maske einfach nur mit „x“ oben rechts geschlossen, wird die Buchung nicht korrekt verarbeitet. In der Buchungsmaske sieht man unglücklicherweise zwar den Status OK, aber die Buchung ist nicht umgesetzt. Das System storniert solche Vorgänge automatisch nach kurzer Zeit. Im Zweifelsfall wenden Sie sich gerne an uns.  \u003c/p\u003e\u003cp\u003e_____________________________________________________________________________________\u003c/p\u003e\u003ca name=\"eztoc_4_1\" id=\"eztoc_4_1\"\u003e\u003c/a\u003e\u003ch2\u003e20% Expedientenrabatt bei Interhome\u003c/h2\u003e\u003cp\u003eWas man kennt, kann man auch besser verkaufen – darum profitieren Expedienten bei Interhome von 20% Rabatt auf das gesamte Ferienhaus-Angebot! Schicken Sie dazu einfach von Ihrem Reisebüro-Account Ihre als Privatkunde getätigte Buchung unter Angabe Ihrer Partner ID an \u003ca href=\"mailto:reisebuero@interhome.group\"\u003ereisebuero@interhome.group\u003c/a\u003e. Überzeugen Sie sich selbst von den Vorteilen eines privaten Ferienhauses - wir freuen uns auf Sie!\u003c/p\u003e\n",
+                                "markdown": "### TODO\nDer HTML-Text muss in Markdown konvertiert werden."
+                            }
+                        }
+                    ],
+                    "right": [
+                        {
+                            "id": 1,
+                            "component": "Richtext",
+                            "content": {
+                                "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eNachhaltigkeit liegt uns am Herzen\u003c/h2\u003e\u003cp\u003eDie Interhome Group setzt sich für einen nachhaltigen Ferienwohnungstourismus ein und unterstützt mit € 1 pro Buchung Nachhaltigkeitsprojekte. Auch Ihre Kunden können mit einer freiwilligen CO2-Kompensation einen Beitrag zum Klimaschutz beitragen. Gemeinsam engagieren wir uns für die Zukunft! \u003ca href=\"https://www.interhome.de/ueber-interhome/nachhaltigkeit/\" target=\"_blank\"\u003eMehr Informationen.\u003c/a\u003e\u003c/p\u003e\u003cp\u003e________________________________________________________________________________________\u003c/p\u003e\u003ca name=\"eztoc_2_1\" id=\"eztoc_2_1\"\u003e\u003c/a\u003e\u003ch2\u003eCoronavirus Update\u003c/h2\u003e\u003cp\u003eWir verfolgen laufend die Reisebeschränkungen und halten uns an die offiziellen Anweisungen, aufgrund deren Buchungen möglicherweise storniert werden müssen. Eine aktuelle Übersicht aller Einschränkungen finden Sie unter \u003ca href=\"https://www.interhome.group/de-de/coronavirus\" target=\"_blank\"\u003ewww.interhome.group\u003c/a\u003e. Bei Unklarheiten oder Änderungswünschen zu bestehenden Buchungen, kontaktieren Sie uns bitte unter +49 (0)761 2100 100.\u003c/p\u003e\u003cp\u003eUnsere lokalen Service Büros haben umfangreiche Maßnahmen umgesetzt, um das Wohlergehen von Kunden, Eigentümern und Mitarbeitenden zu gewährleisten. Zu den Maßnahmen gehören Schutzmasken für Kunden und Mitarbeitende, Bodenmarkierungen für die Einhaltung der offiziellen Abstandsregelungen und Einschränkung der Anzahl Kunden, die sich zeitgleich in unseren Büros aufhalten dürfen. Kunden werden gebeten, Handdesinfektionsmittel zu verwenden, das in jedem Büro zur Verfügung steht.\u003c/p\u003e\u003ca name=\"eztoc_3_1\" id=\"eztoc_3_1\"\u003e\u003c/a\u003e\u003ch2\u003e________________________________________________________________________________________\u003c/h2\u003e\u003ca name=\"eztoc_4_1\" id=\"eztoc_4_1\"\u003e\u003c/a\u003e\u003ch2\u003eErstellen Sie Ihren Partnerlink selbst\u003cstrong\u003e \u003c/strong\u003e\n\u003c/h2\u003e\u003cp\u003eAnbei eine kurze Anleitung: \u003ca href=\"https://video214.com/play/eDZDM60FQgtYne9J0A81Vw/s/dark\" target=\"_blank\"\u003ePartnerlinkgenerator\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://partners.interhome.group/demos/\" target=\"_blank\"\u003eLink zum Demo-Tool\u003c/a\u003e\u003c/p\u003e\u003cp\u003eInformationen zur Verlinkung und die Anmeldung für unseren Tech Update Newsletter finden Sie \u003ca href=\"https://partners.interhome.group\" target=\"_blank\"\u003ehier\u003c/a\u003e\u003c/p\u003e\u003cp\u003eBei Rückfragen wenden Sie sich gerne an unsere Agenturbetreuung.\u003c/p\u003e\n",
+                                "markdown": "### TODO\nDer HTML-Text muss in Markdown konvertiert werden."
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
