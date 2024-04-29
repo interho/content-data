@@ -8,8 +8,8 @@
     "owner": "",
     "group": "",
     "created": "2024-02-22T00:00:00Z",
-    "modified": "2024-04-29T11:41:04.653579+02:00",
-    "published": "2024-04-29T11:41:04.653486+02:00",
+    "modified": "2024-04-29T11:53:27.85246+02:00",
+    "published": "2024-04-29T11:53:27.852456+02:00",
     "permissions": "",
     "id": "salesportal",
     "collection": "pages",
@@ -36,7 +36,7 @@
                     "headline": "",
                     "image": {
                         "asset": "https://images.interhome.group/ezcms/hhd/salesportal/ih-salesportal-start-page/1794892-4-eng-XX/IH-SalesPortal-Start-Page.jpg",
-                        "alt": "Partner Portal Home - test 7",
+                        "alt": "Partner Portal Home - test 8",
                         "width": 0,
                         "height": 0
                     }
