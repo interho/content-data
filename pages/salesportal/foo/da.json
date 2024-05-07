@@ -1,0 +1,48 @@
+{
+    "path": "pages/salesportal/foo/da.json",
+    "locale": "da",
+    "version": "published",
+    "status": "",
+    "slug": "foo",
+    "full_slug": "//foo",
+    "owner": "pn12978",
+    "group": "",
+    "created": "2024-05-07T13:13:31.370967+02:00",
+    "modified": "2024-05-07T13:13:31.37098+02:00",
+    "published": "0001-01-01T00:00:00Z",
+    "permissions": "-rwxr--r--",
+    "id": "pages/salesportal/foo",
+    "collection": "pages",
+    "space": "website",
+    "repo": "content",
+    "name": "pages/salesportal/foo",
+    "notes": "",
+    "tags": [],
+    "folder": "pages",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "title": "",
+        "description": "",
+        "robots": "",
+        "canonical": "",
+        "meta": {},
+        "virtpath": "",
+        "body": [
+            {
+                "id": 1,
+                "component": "Hero",
+                "content": {
+                    "headline": "",
+                    "image": {
+                        "asset": "",
+                        "alt": "",
+                        "width": 0,
+                        "height": 0
+                    }
+                }
+            }
+        ]
+    }
+}
