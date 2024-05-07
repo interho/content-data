@@ -8,8 +8,8 @@
     "owner": "pn12978",
     "group": "",
     "created": "2024-05-02T18:22:29.26998+02:00",
-    "modified": "2024-05-07T13:09:39.463268+02:00",
-    "published": "2024-05-07T13:09:39.463264+02:00",
+    "modified": "2024-05-07T13:13:22.377089+02:00",
+    "published": "2024-05-07T13:13:22.377058+02:00",
     "permissions": "-rwxr--r--",
     "id": "foo",
     "collection": "pages",
@@ -29,6 +29,20 @@
         "canonical": "",
         "meta": {},
         "virtpath": "",
-        "body": null
+        "body": [
+            {
+                "id": 1,
+                "component": "Hero",
+                "content": {
+                    "headline": "",
+                    "image": {
+                        "asset": "",
+                        "alt": "",
+                        "width": 0,
+                        "height": 0
+                    }
+                }
+            }
+        ]
     }
 }
